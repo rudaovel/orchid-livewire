@@ -14,13 +14,13 @@ Package description: A Livewire macro for Orchid Platform
 Install via composer
 ```bash
 # for Orchid 12
-composer require livewire/livewire alexsabur/orchid-livewire:^5.0
+composer require livewire/livewire rudaovel/orchid-livewire:^5.0
 
 # for Orchid 11
-composer require livewire/livewire alexsabur/orchid-livewire:^4.0
+composer require livewire/livewire rudaovel/orchid-livewire:^4.0
 
 # or for Orchid 10
-composer require livewire/livewire alexsabur/orchid-livewire:^3.0
+composer require livewire/livewire rudaovel/orchid-livewire:^3.0
 ```
 
 Publish orchid-livewire assets
